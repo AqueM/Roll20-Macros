@@ -5,10 +5,10 @@ A collection of my macros for roll20 DnD 5e games. Some are based on other peopl
 Files are divided into three types: Abilities which you add to a Character sheet, Macros which can be run anytime, and Token Actions that require a Token to be selected to work. Follow the right directions to add them.
 
 ### Add a Macro or Token Action
-- Open your desired game. 
+- Open your desired game
 - Go to Collections>Macros>+Add
 - Paste the text from a desired file into the Actions field
-- Type a unique name into the Name field. 
+- Type a unique name into the Name field
 - Optionally: Check "Show as Token Action" to show it in top left of the screen when a Token is selected
 - Click Save Changes
 - Optionally: Check "In Bar" next to the created Macro to show it at all times at the bottom of the screen
