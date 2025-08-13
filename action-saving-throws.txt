@@ -1,7 +1,7 @@
 ## Doesn't need to be a Token Action, but it only works with a selected Token
 
 
-/w "@{selected|player_name}" &{template:npcaction} {{rname=Saving Throw}} {{description=Select Saving Throw 
+/w "@{selected|character_name}" &{template:npcaction} {{rname=Saving Throw}} {{description=Select Saving Throw 
 [Strength](~selected|strength_save)
 [Dexterity](~selected|dexterity_save)
 [Constitution](~selected|constitution_save)

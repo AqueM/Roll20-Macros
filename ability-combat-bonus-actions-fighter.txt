@@ -1,0 +1,18 @@
+/w "@{character_name}" &{template:traits} ?{Show which Bonus Action description? 
+| Offhand Attack, {{name=Offhand Attack&#125;&#125; {{source= [DnDBeyond](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#TwoWeaponFighting)&#125;&#125; {{description=When you take the Attack action and attack with a light melee weapon that you're holding in one hand&#44; you can use a bonus action to attack with a different light melee weapon that you're holding in the other hand. You don't add your ability modifier to the damage of the bonus attack&#44; unless that modifier is negative.
+
+If either weapon has the thrown property&#44; you can throw the weapon&#44; instead of making a melee attack with it.&#125;&#125;
+| Cast a Spell, {{name=Cast a Spell&#125;&#125; {{source= [Open5e](https://open5e.com/combat/actions-in-combat)&#125;&#125; {{description=Spellcasters such as wizards and clerics&#44; as well as many monsters&#44; have access to spells and can use them to great effect in combat. Each spell has a casting time&#44; which specifies whether the caster must use an action&#44; a reaction&#44; minutes&#44; or even hours to cast the spell. Casting a spell is&#44; therefore&#44; not necessarily an action. Most spells do have a casting time of 1 action&#44; so a spellcaster often uses his or her action in combat to cast such a spell.&#125;&#125;}
+| Rage, {{name=Rage&#125;&#125; {{source= [Open5e](https://open5e.com/classes/barbarian)&#125;&#125; {{description=In battle&#44; you fight with primal ferocity. On your turn&#44; you can enter a rage as a bonus action.
+
+While raging&#44; you gain the following benefits if you aren't wearing heavy armor:
+
+    You have advantage on Strength checks and Strength saving throws.
+    When you make a melee weapon attack using Strength&#44; you gain a bonus to the damage roll that increases as you gain levels as a barbarian&#44; as shown in the Rage Damage column of the Barbarian table.
+    You have resistance to bludgeoning&#44; piercing&#44; and slashing damage. 
+
+If you are able to cast spells&#44; you can't cast them or concentrate on them while raging.
+
+Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
+
+Once you have raged the number of times shown for your barbarian level in the Rages column of the Barbarian table&#44; you must finish a long rest before you can rage again. &#125;&#125;
