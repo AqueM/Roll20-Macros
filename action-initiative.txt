@@ -1,0 +1,3 @@
+## Only works as Macro (not Ability). Suggested to add as a Token Action only. Will break if the character has an Ability called Initiative.
+
+%{selected|initiative}

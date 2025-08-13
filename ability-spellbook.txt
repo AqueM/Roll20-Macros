@@ -1,0 +1,21 @@
+## Remove/add rows to match the number of spells your character has. 
+## Mostly based on spellbook macro from https://github.com/treysu
+
+/w "@{character_name}" &{noerror} &{template:npcaction} {{rname=@{character_name}'s Spellbook
+}} {{description=**Stats**
+@{spell_save_dc} Spell DC 
++ @{spell_attack_bonus} to hit with spell attacks
+
+**Cantrips** 
+[@{repeating_spell-cantrip_$0_spellname}](~repeating_spell-cantrip_$0_spell)
+[@{repeating_spell-cantrip_$1_spellname}](~repeating_spell-cantrip_$1_spell)
+[@{repeating_spell-cantrip_$2_spellname}](~repeating_spell-cantrip_$2_spell)
+
+**1st Level** (@{lvl1_slots_expended} / @{lvl1_slots_total})
+[@{repeating_spell-1_$0_spellname}](~repeating_spell-1_$0_spell)
+[@{repeating_spell-1_$1_spellname}](~repeating_spell-1_$1_spell)
+
+**2ndst Level** (@{lvl2_slots_expended} / @{lvl2_slots_total})
+[@{repeating_spell-2_$0_spellname}](~repeating_spell-2_$0_spell)
+[@{repeating_spell-2_$1_spellname}](~repeating_spell-2_$1_spell)
+}}

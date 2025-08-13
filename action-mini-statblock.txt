@@ -2,6 +2,7 @@
 senses : type your darkvision etc. here
 resistances : type your resistances here
 Adjust the senses text as needed. 
+## Inspired by a Macro from u/ERock_GM at Reddit
 
 
 &{template:default} {{name=@{selected|character_name}'s stats}} {{AC= @{selected|ac}}} {{HP =[[@{selected|hp}+@{selected|hp_temp}]] / @{selected|hp|max}}} ( @{selected|hp} )}} {{Speed= @{selected|speed}}} {{Senses=passive Perception **@{selected|passive_wisdom}**

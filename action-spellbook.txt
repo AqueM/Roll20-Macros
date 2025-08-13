@@ -1,7 +1,10 @@
-## Remove excess rows. You will need to manually add them as you gain spells.
+##This only works with a selected token
+
+## Remove/add rows to match the number of spells your character has. 
+## Mostly based on spellbook macro from https://github.com/treysu
 
 
-/w "@{selected|character_name}" &{noerror} &{template:npcaction} {{rname=@{selected|character_name}'s Spellbook}} {{description=**Stats**
+/w "@{selected|player_name}" &{noerror} &{template:npcaction} {{rname=@{selected|character_name}'s Spellbook}} {{description=**Stats**
 @{selected|spell_save_dc} Spell DC 
 + @{selected|spell_attack_bonus} to hit with spell attacks
 

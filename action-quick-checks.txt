@@ -1,0 +1,20 @@
+## For any Ability Check you do often and would like to have on a shortcut, create a new Macro with one of the following lines:
+
+@{selected|acrobatics_roll}
+@{selected|animal_handling_roll}
+@{selected|arcana_roll}
+@{selected|athlethics_roll}
+@{selected|deception_roll}
+@{selected|history_roll}
+@{selected|insight_roll}
+@{selected|intimidation_roll}
+@{selected|investigation_roll}
+@{selected|medicine_roll}
+@{selected|nature_roll}
+@{selected|perception_roll}
+@{selected|performance_roll}
+@{selected|persuasion_roll}
+@{selected|religion_roll}
+@{selected|sleight_of_hand_roll}
+@{selected|stealth_roll}
+@{selected|survival_roll}

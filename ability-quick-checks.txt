@@ -1,0 +1,20 @@
+## For any Ability Check you do often and would like to have on a shortcut, create a new Ability with one of the following lines:
+
+@{acrobatics_roll}
+@{animal_handling_roll}
+@{arcana_roll}
+@{athlethics_roll}
+@{deception_roll}
+@{history_roll}
+@{insight_roll}
+@{intimidation_roll}
+@{investigation_roll}
+@{medicine_roll}
+@{nature_roll}
+@{perception_roll}
+@{performance_roll}
+@{persuasion_roll}
+@{religion_roll}
+@{sleight_of_hand_roll}
+@{stealth_roll}
+@{survival_roll}

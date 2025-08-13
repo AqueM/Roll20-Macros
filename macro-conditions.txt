@@ -1,4 +1,4 @@
-## Requires #incapacitated and #exhaustion
+## Requires #incapacitated and #exhaustion Macros from two other files in this collection
 
 
 
