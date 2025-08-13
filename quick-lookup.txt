@@ -1,0 +1,12 @@
+&{template:npcaction} {{rname=Quick Lookup}} {{description=**5e.tools**
+[Rules](https://5e.tools/variantrules.html)
+[Conditions](https://5e.tools/conditionsdiseases.html)
+[Actions](https://5e.tools/actions.html)
+[Spells](https://5e.tools/spells.html)
+
+**Open5e**
+[Conditions](https://open5e.com/conditions)
+[Spells](http://open5e.com/spellcasting/by-class/index.html)
+[Actions](https://open5e.com/characters/actions-in-combat)
+[Equipment](https://open5e.com/equipment)
+[Magic Items](https://open5e.com/magic-items)}}

@@ -1,0 +1,1 @@
+&{template:traits&#125; {{name=Incapacitated&#125;&#125; {{source=[Open5e](https://open5e.com/conditions/incapacitated)&#125;&#125; {{description=An incapacitated creature can't take actions or reactions. &#125;&#125;

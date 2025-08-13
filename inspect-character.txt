@@ -1,0 +1,1 @@
+&{template:default} {{name=🔎 @{target|token_name}}} {{ A @{target|height} @{target|race}, weighing about @{target|weight}, with @{target|hair} hair, @{target|eyes} eyes, and @{target|skin} skin.}}
