@@ -1,4 +1,4 @@
-##This only works with a selected token
+## This only works with a selected token
 
 ## Remove/add rows to match the number of spells your character has. 
 ## Mostly based on spellbook macro from https://github.com/treysu
