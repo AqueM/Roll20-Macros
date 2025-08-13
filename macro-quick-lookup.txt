@@ -1,3 +1,5 @@
+## Inspired by https://gist.github.com/AndruC
+
 &{template:npcaction} {{rname=Quick Lookup}} {{description=**5e.tools**
 [Rules](https://5e.tools/variantrules.html)
 [Conditions](https://5e.tools/conditionsdiseases.html)

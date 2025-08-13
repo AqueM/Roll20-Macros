@@ -1,7 +1,7 @@
 ## This only works with a selected token
 
 ## Remove/add rows to match the number of spells your character has. 
-## Mostly based on spellbook macro from https://github.com/treysu
+## Mostly based on spellbook macro from https://github.com/treysu and https://gist.github.com/AndruC
 
 
 /w "@{selected|player_name}" &{noerror} &{template:npcaction} {{rname=@{selected|character_name}'s Spellbook}} {{description=**Stats**

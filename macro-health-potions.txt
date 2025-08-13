@@ -1,3 +1,5 @@
+## Copied from u/its_dizzle at Reddit 
+
 &{template:atkdmg}  {{damage=1}} {{dmg1flag=1}} ?{Healing Potion Variety?
 | Standard (2d4+2), {{rname=Standard Healing Potion
  (2d4+2)&#125;&#125;  {{dmg1=[[2d4+2]]&#125;&#125; 
