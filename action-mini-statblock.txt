@@ -1,7 +1,9 @@
-## Optionally you can create two attributes in the Character sheet
-senses : type your darkvision etc. here
-resistances : type your resistances here
-Adjust the senses text as needed. 
+## Optionally you can create two Attributes (created similarly as Abilities) in the Character sheet
+## senses : type your darkvision etc. here
+## resistances : type your resistances here
+
+## Without these, Senses and Resistance will simply display "selected|senses" and "selected|resistances" respectively. You can create these Attributes and leave them blank for a prettier output.
+
 ## Inspired by a Macro from u/ERock_GM at Reddit
 
 
