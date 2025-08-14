@@ -1,4 +1,5 @@
-## For any Ability Check you do often and would like to have on a shortcut, create a new Macro with one of the following lines:
+## For any Ability Check you do often and would like to have on a shortcut, create a new Macro with one of the following lines
+## This works best as a Token Action, though also can be achieved by opening a Character Sheet and dragging a desired Check onto the Macro Bar
 
 @{selected|acrobatics_roll}
 @{selected|animal_handling_roll}

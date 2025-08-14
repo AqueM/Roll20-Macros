@@ -1,3 +1,4 @@
+## This is functionally the same to dragging the Ability Check from the Character Sheet to the Macro Bar manually, but it allows you to have it as a Token Action instead of cluttering the Macro Bar
 ## For any Ability Check you do often and would like to have on a shortcut, create a new Ability with one of the following lines:
 
 @{acrobatics_roll}

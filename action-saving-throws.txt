@@ -1,4 +1,5 @@
 ## Doesn't need to be a Token Action, but it only works with a selected Token
+## If you only want one Saving Throw for a specific character on a shortcut, consider dragginfg it from the Character Sheet onto the Macro Bar directly
 
 
 /w "@{selected|character_name}" &{template:npcaction} {{rname=Saving Throw}} {{description=Select Saving Throw 
