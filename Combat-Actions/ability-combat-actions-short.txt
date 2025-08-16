@@ -1,0 +1,12 @@
+## Requires Ability called Spellbook
+
+/w "@{character_name}" &{template:npcaction} {{rname=Combat Actions}} {{name= [Open5e](https://open5e.com/combat/actions-in-combat)}} {{description=- Attack
+- [Cast a Spell](~spellbook)
+- Dash
+- Disengage
+- Dodge
+- Help
+- Hide
+- Ready
+- Search
+- Use an Object}}

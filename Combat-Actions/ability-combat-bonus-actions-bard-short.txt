@@ -1,0 +1,6 @@
+/## Requires Ability called Spellbook
+
+/w "@{character_name}" &{template:npcaction} {{rname=Combat Bonus Actions}} {{description=
+- [Offhand Attack](https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#TwoWeaponFighting)
+- [Cast a Spell](~spellbook)
+- [Bardic Inspiration](https://open5e.com/classes/bard)}}
